@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(blue, lightblue)
+}
+span{
+    color: darkblue;
+}
+input{
+    accent-color: red;
+}
